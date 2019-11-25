@@ -8,6 +8,7 @@ import android.widget.VideoView;
 
 public class MainActivity extends AppCompatActivity {
 
+    //coment
     VideoView videoView;
     MediaController mediaController;
     @Override
